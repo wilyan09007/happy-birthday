@@ -3,7 +3,7 @@
   "name": "Eric",
   "greetingText": "lil bro carried high school experience",
   "wishText": "Look at how acoustic you are",
-  "imagePath": "img/eric1",
+  "imagePath": "./img/eric1.jpg",
   "text1": "Happy 17th lol",
   "textInChatBox": "Aint no way ur almost legal",
   "sendButtonLabel": "Send",
