@@ -6,7 +6,7 @@ const fetchData = () => {
       dataArr = Object.keys(data);
       dataArr.map(customData => {
         if (data[customData] !== "") {
-          if (customData === "imagePath6") {
+          if (customData === "imagePath" || customData === "imagePath1" || customData === "imagePath2" || customData === "imagePath3" || customData === "imagePath4" || customData === "imagePath5" || customData === "imagePath6" || customData === "imagePath7") {
             document
               .querySelector(`[data-node-name*="${customData}"]`)
               .setAttribute("src", data[customData]);
