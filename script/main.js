@@ -10,48 +10,6 @@ const fetchData = () => {
             document
               .querySelector(`[data-node-name*="${customData}"]`)
               .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath1") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath2") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath3") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath4") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath5") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath6") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
-          }
-          
-          if (customData === "imagePath7") {
-            document
-              .querySelector(`[data-node-name*="${customData}"]`)
-              .setAttribute("src", data[customData]);
           } else {
             document.querySelector(`[data-node-name*="${customData}"]`).innerText = data[customData];
           }
