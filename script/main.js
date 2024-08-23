@@ -210,7 +210,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric1", 0.5, {
-        scale: 3.5,
+        scale: 1.5,
         opacity: 0,
         x: -180,
         y: 25,
