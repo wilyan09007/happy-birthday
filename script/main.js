@@ -252,7 +252,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric1", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -260,7 +260,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric2", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -268,7 +268,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric3", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -276,7 +276,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric4", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -284,7 +284,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric5", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -292,7 +292,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric6", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -300,7 +300,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric7", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
@@ -308,7 +308,7 @@ const animationTimeline = () => {
     )
     .from(
       ".eric8", 0.5, {
-        scale: 1.5,
+        scale: 0.5,
         opacity: 0,
         rotationZ: -45
       },
