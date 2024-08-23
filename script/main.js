@@ -218,6 +218,76 @@ const animationTimeline = () => {
       },
       "-=2"
     )
+    .from(
+      ".eric2", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(
+      ".eric3", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(
+      ".eric4", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(
+      ".eric5", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(
+      ".eric6", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(
+      ".eric7", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
+    .from(
+      ".eric8", 0.5, {
+        scale: 1.5,
+        opacity: 0,
+        x: -180,
+        y: 25,
+        rotationZ: -45
+      },
+      "-=2"
+    )
     .from(".hat", 0.5, {
       x: -100,
       y: 350,
