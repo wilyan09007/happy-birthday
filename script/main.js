@@ -187,7 +187,7 @@ const animationTimeline = () => {
       ".idea-6 span",
       0.8,
       {
-        scale: 3,
+        scale: 1,
         opacity: 0,
         rotation: -15,
         ease: Expo.easeOut
@@ -277,7 +277,6 @@ const animationTimeline = () => {
     )
     .to(".six", 0.5, {
       opacity: 0,
-      y: 30,
       zIndex: "-1"
     })
     .staggerFrom(".nine p", 1, ideaTextTrans, 1.2)
